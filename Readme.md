@@ -30,7 +30,7 @@ Here are screenshots that show the E-commerce demo application in use.
 ## Getting Started
 To get started  you can simply clone this `ecommerce-demo` repository and install the dependencies.
 
-Clone the `ecommerce-demo` repository using git:
+Clone the `Cybernode` repository using git:
 
 ```bash
 git clone https://github.com/ratracegrad/ecommerce-demo
