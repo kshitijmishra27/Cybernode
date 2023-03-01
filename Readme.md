@@ -28,7 +28,7 @@ Here are screenshots that show the E-commerce demo application in use.
 ![Shopping Cart]()
 
 ## Getting Started
-To get started  you can simply clone this `ecommerce-demo` repository and install the dependencies.
+To get started  you can simply clone this `Cybernode` repository and install the dependencies.
 
 Clone the `Cybernode` repository using git:
 
