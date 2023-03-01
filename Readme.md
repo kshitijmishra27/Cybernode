@@ -48,8 +48,7 @@ npm start
 ```
 
 ## Tech Stack
-* AngularJS
+* React.js
 * Node.js
 * Express.js
-* Bootstrap
-* ui-Router
+* Mongodb
