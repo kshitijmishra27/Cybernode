@@ -1,4 +1,4 @@
-# E-commerce Demo
+# Cybernode
 
 This is a sample application that demonstrates an E-commerce website using the MERN stack. The application loads 
 products a MongoDB database and displays them. Users can select to display products in a single category. Users can 
