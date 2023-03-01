@@ -33,8 +33,8 @@ To get started  you can simply clone this `Cybernode` repository and install the
 Clone the `Cybernode` repository using git:
 
 ```bash
-git clone https://github.com/ratracegrad/ecommerce-demo
-cd ecommerce-demo
+git clone https://github.com/ratracegrad/Cybernode
+cd Cybernode
 ```
 
 Install dependencies with this command:
